@@ -25,5 +25,11 @@ Plenty of lag from where that made from! Burn up that Game Boy! Put on a cave ma
 +Unachievements?
 Plenty to do, but I said too fast.
 
+-Map text gibberish assortment
+I did the load menu, but the other maps need to be spruced to Game Boy efficiency.
+
 -Maps
 Tile details, but WAIT! Just color the empty tile and call it a day! I might actually work with map tiles, but given the fact that developers have to painstakingly piece each tile into a map from a canvas, we might have well be Pablo Picasso!.
+
+-Turn-based (Card) RPG battle map(s)
+I need to simplify this process into an variable/parameter array. Will keep the battle simplified. Stats (usually) restricted HP and Gold, where Gold is a actual stat than just money. Time might be a stat. Manage wisely! Monsters are like Mr. Monopoly, where both HP and Gold can spell victory or defeat!
