@@ -1,5 +1,6 @@
 # RV-007_test
 Attempt at turn-based (card) RPG (battles). Trying to keep it simple.
+THIS IS TEMPORARY STORAGE OF PROJECT, RESERVED FOR FIXING ERRORS AND WORKING AROUND GAME BOY LIMITATIONS.
 
 +Current Achievements?
 Where did the time/money gone? [=[
